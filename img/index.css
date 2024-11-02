@@ -1,0 +1,110 @@
+
+.four{
+    width: 300px;
+    margin-right: 20px;
+}
+
+.one{
+    position: absolute;
+    right: 150px;
+    bottom: 40px;
+    height: 30px;
+    width: 30px;
+
+
+}
+/* .two{
+    height: 30px;
+    width: 30px;
+    position:relative;
+    top: 12px;
+    bottom: 10px;
+} */
+  
+    /* .three{
+     position: relative;
+     right: 40px;
+     top: 10px;
+     bottom: 40px;
+    height: 30px;
+    width: 30px;
+
+    } */
+    .five{
+        margin-right: 30px;
+        margin-left: 50px;
+    }
+    .likebtn{
+        font-size: 9px;
+        margin-top: 5px;
+        margin-left: -10px;
+        position: absolute;
+        z-index: 500;
+        background-color: teal;
+    }
+    .six {
+         height: 200px;
+        width: 350px;
+        position: relative;
+        right: -900px;
+
+    }
+    .head1{
+        position: absolute;
+        top:170px;
+        color: rgb(57, 88, 57);
+    }
+    .trend{
+        position: relative;
+        bottom: 100px;
+        width: 500px;
+    
+    }
+    p{
+        position: absolute;
+        top: 300px;
+    }
+     /* .ammu{
+        position: relative;
+        top:300px;
+        
+    } */
+     
+     .shop{
+        position: absolute;
+        top: 340px;
+     }
+     .pop{
+        position: absolute;
+        top: 450px;
+     }
+     .oneset{
+        display: flex;
+        justify-content: space-between;
+     }
+     figure img{
+        margin-top: 120px;
+        border: 1px solid rgb(160, 214, 160);
+        padding: 20px;
+        border-radius: 10px;
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom: 1px solid white;
+    
+     }
+     figcaption{
+        text-align: center;
+        border: 1px solid rgb(160, 214, 160);
+        font-weight:bold;
+        color: rgb(88, 136, 136);
+        border-radius: 10px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-top: 1px solid white;
+        
+     }
+     .grt{
+        font-size: 40px;
+     }
+    
+     
